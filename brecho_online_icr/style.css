@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(150, 150, 150);
+}
+
+#navbar{
+    margin: 0 0 0 200px;
+    border-radius: 2px;
+    border: solid;
+    width: 900px;
+    background-color: rgb(117, 117, 117);
+    text-align: center;
+    display: flex;
+}
+
+.icone{
+    width: 100px;
+    margin-right: 80px;
+}
+
+.texto_navbar{
+    margin: 30px 0 0 100px;
+}
+
+#texto_inicial{
+    padding-top: 60px;
+    text-align: center;
+}
+
+#produtos{
+    display: flex;
+}
+
+.coluna_produtos{
+    max-width: 200px;
+    text-align: center;
+}
